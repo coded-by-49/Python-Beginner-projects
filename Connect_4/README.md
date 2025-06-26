@@ -1,10 +1,10 @@
-Connect 4 AI Game
+# Connect 4 AI Game
 
 This is a fully playable Connect 4 game with a command-line interface and an unbeatable AI opponent powered by the minimax algorithm with alpha-beta pruning.
 This project hurned and grounded me on object-oriented programming, lists , time complexity and so much more. I can't wait to share in detail.
 
 
-SOME OF THE FEATURES INCLUDE:
+# SOME OF THE FEATURES INCLUDE:
 - Complete Connect 4 game engine
 - The Connect4 class manages board state, move application, win detection, and heuristic scoring.
 - AI players:
