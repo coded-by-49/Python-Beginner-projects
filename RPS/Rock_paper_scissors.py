@@ -18,7 +18,7 @@ def rock_paper_scissors(you):
         return f"You beat the computer\n score is you({user_score}) -- computer({cpu_score})"
 
     cpu_score += 1
-    return "You got whopped by the computern score is you({user_score}) -- computer({cpu_score})eee"
+    return f"You got whopped by the computer! Score!  you({user_score}) -- computer({cpu_score})"
 
 for i in range(5):
     test1 = input("Pls enter your preferred choice now  ")
